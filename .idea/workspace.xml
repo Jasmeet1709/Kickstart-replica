@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd9d846-742d-44f3-9420-bcb62c25635b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/components/ContributeForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/RequestRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ethereum/campaign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/campaigns/requests/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/campaigns/requests/new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/campaigns/show.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/604227e08098f872400d.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/_document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/_error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/campaigns/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/commons.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/commons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/dist/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/dist/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/dist/ethereum/build/CampaignFactory.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/dist/ethereum/factory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/dist/pages/campaigns/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/manifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ethereum/build/Campaign.json" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum/build/Campaign.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ethereum/build/CampaignFactory.json" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum/build/CampaignFactory.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ethereum/contracts/Campaign.sol" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum/contracts/Campaign.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ethereum/factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum/factory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/campaigns/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/campaigns/show.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/show.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,7 +28,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="-208">
               <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -62,23 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factory.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ethereum/factory.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="show.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
+            <state relative-caret-position="103">
+              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -86,11 +49,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+            <state relative-caret-position="-448">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -98,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestRow.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RequestRow.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/RequestRow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="22">
               <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -110,11 +85,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Campaign.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ethereum/contracts/Campaign.sol">
+      <file leaf-file-name="campaign.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ethereum/campaign.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,8 +109,8 @@
       <file leaf-file-name="ContributeForm.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/ContributeForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="68" />
+            <state relative-caret-position="351">
+              <caret line="24" column="68" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="68" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -143,7 +121,7 @@
       <file leaf-file-name="new.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="202">
               <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -181,12 +159,13 @@
         <option value="$PROJECT_DIR$/ethereum/contracts/Campaign.sol" />
         <option value="$PROJECT_DIR$/ethereum/factory.js" />
         <option value="$PROJECT_DIR$/ethereum/campaign.js" />
-        <option value="$PROJECT_DIR$/pages/campaigns/show.js" />
         <option value="$PROJECT_DIR$/components/ContributeForm.js" />
         <option value="$PROJECT_DIR$/routes.js" />
-        <option value="$PROJECT_DIR$/pages/campaigns/requests/index.js" />
         <option value="$PROJECT_DIR$/pages/campaigns/requests/new.js" />
         <option value="$PROJECT_DIR$/components/RequestRow.js" />
+        <option value="$PROJECT_DIR$/pages/campaigns/requests/index.js" />
+        <option value="$PROJECT_DIR$/pages/campaigns/show.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -409,18 +388,18 @@
       <workItem from="1535451583412" duration="1042000" />
       <workItem from="1535482358420" duration="8168000" />
       <workItem from="1535775675119" duration="23041000" />
-      <workItem from="1535873597239" duration="3356000" />
+      <workItem from="1535873597239" duration="4913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36025000" />
+    <option name="totallyTimeSpent" value="37582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003524" side_tool="true" weight="0.32965517" />
@@ -428,7 +407,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.32965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,13 +426,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -690,16 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ethereum/campaign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/Layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -734,42 +696,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
+    <entry file="file://$PROJECT_DIR$/ethereum/campaign.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
+        <state relative-caret-position="-448">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/ContributeForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -781,23 +723,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+        <state relative-caret-position="-208">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/RequestRow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="22">
           <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ContributeForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
