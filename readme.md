@@ -2,7 +2,7 @@
 
 ### A blockchain Dapp similar to kickstart web-app.
 
-##Steps to run
+## Steps to run
 1. Clone or download the project.
 2. Change the directory using ``cd Kickstart-replica-master`` command on the terminal.
 3. Install all the dependencies using command ``yarn install`` .
