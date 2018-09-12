@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-    'raise woman envelope arrest fall one coconut slogan public uncle lesson hedgehog',
+    'Add your meta mask key words',
     'https://rinkeby.infura.io/v3/0e697c2d10f9428da44fbbfd613fb18f'
 );
 
